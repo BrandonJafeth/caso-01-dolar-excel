@@ -1,15 +1,15 @@
-# [Nombre del caso]
+# Caso 1 · ¿Cuándo conviene comprar dólares?
 
-> **Pregunta:** [La pregunta en lenguaje cotidiano]
-> **Respuesta corta:** [La conclusión en una frase]
+> **Pregunta:** ¿En qué meses el dólar suele estar más caro o más barato en Costa Rica?
+> **Respuesta corta:** [pendiente]
 
-Caso publicado en: https://datos.brandoncarrillo.dev/casos/[slug]
+Caso publicado en: https://datos.brandoncarrillo.dev/casos/dolar-excel
 
 ## Datos
 
 | Fuente | Qué se usó | Descargado el | Licencia |
 |---|---|---|---|
-| [Ej. BCCR] | [Tipo de cambio diario 2020–2026] | [AAAA-MM-DD] | [Términos] |
+| BCCR | Tipo de cambio de referencia compra/venta, diario | 2026-11-19 | Términos de uso del BCCR: uso personal, empresarial u organizacional sin alterar el contenido; citar la fuente |
 
 Los archivos originales no están en el repo. Para reproducir, descargalos en `data/raw/` según `fuentes.md`.
 
